@@ -15,3 +15,6 @@ sitemap.xml
 sitemap.xml.gz
 readme.html
 license.txt
+wp-content/themes/psv-test/.sass-cache/
+*.DS_Store
+.DS_Store
